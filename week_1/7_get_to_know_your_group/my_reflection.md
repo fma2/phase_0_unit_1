@@ -8,3 +8,11 @@ Take a moment to reflect on reading other people's responses regarding their fea
 
 <!-- Insert your response here -->
 
+Name: Farheen Malik
+Location: Brooklyn, NY
+Favorite Websites: Google Drive, Twitter, Digg Reader
+Learning Style: Multimodal (Read/Write)
+
+Link to your reflection file: https://github.com/fma2/phase_0_unit_1  
+Link to your [USERNAME].github.io site: http://fma2.github.io/
+Link to your wireframe html page: http://fma2.github.io/unit1_projects/wireframes_sites.html 
