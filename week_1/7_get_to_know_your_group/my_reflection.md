@@ -8,8 +8,11 @@ Take a moment to reflect on reading other people's responses regarding their fea
 
 
 Name: Farheen Malik
+
 Location: Brooklyn, NY
+
 Favorite Websites: Google Drive, Twitter, Digg Reader
+
 Learning Style: Multimodal (Read/Write)
 
 Link to your reflection file: https://github.com/fma2/phase_0_unit_1  
