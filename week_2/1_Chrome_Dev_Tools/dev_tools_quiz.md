@@ -16,6 +16,7 @@ Network (for changes to code, use Elements and Sources)
 * What's the quick key for your OS to spawn the Dev Tools inspector?
 
 For Mac: Cmd + Alt + i
+
 For Chromebook: Control + Shift + i
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
