@@ -9,7 +9,9 @@ Discuss the following:
 * What would you like to add or change about the site next?
 * Was it difficult to apply the material you learned? Did you find anything in your research you thought was super cool?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
-* 
+*
+
+
 Through the readings in this challenge, I have grown to repeat, “Design is about solving problems!”  My full-time job involves understanding, analyzing, and sometimes making policy, and it was interesting to see that the steps to design mirror steps in policy development and analysis: identify the problem, devise a plan to rectify it, implement solution, review whether it was successful.   Even much of the process for website development articulated in the readings is comparable: information gatheirng, planning, design, development, testing & delivery, maintenance.  Ensuring positive user experience of a website is not only related to how it looks but it also seems inextricably linked to understanding that its design and development must solve a problem.   
 
 In creating my website, I first researched various websites for formats.  I considered themes for the site (a personal website, a class website, a personal/work portfolio) and looked for sites that fit these themes.  After a bit of research, I drew out a wireframe on paper and then transferred it to a wireframing application.  Then, I created the my_wireframe.html file in which I typed out pseudocode alongside a screenshot of the wireframe.  I then coded HTML first, followed by CSS.  Lastly, I edited and tested--this part took me the longest.  
