@@ -1,1 +1,22 @@
 /* include your css here */
+
+  .div-class {background-color: #CCC;
+      }
+      #div-top {width: 70%;
+      height: 1000px;
+      float: right;
+      margin: 20px;
+      padding: 5px;}
+      
+      h1 {text-align: center}
+      
+      h3 {text-align: center}
+      
+      #div-left {width: 150px;
+      height: 1000px;
+      float: right;
+      margin: 20px;
+      padding: 5px;}
+      
+      body {font-family: Calibri;
+      background-color: green;
