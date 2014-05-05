@@ -9,6 +9,9 @@
 Elements and Sources
 
   * Javascript Debugging
+
+Sources
+
   * Performance Optimization 
 
 Network (for changes to code, use Elements and Sources)
@@ -50,3 +53,5 @@ Here is the URL:  http://www.ticketswizard.com/Images/Catalog/92624182-c482-4a35
 It is 316 KB
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
+* 
+Optimize images - 885.9KiB can be eliminated
