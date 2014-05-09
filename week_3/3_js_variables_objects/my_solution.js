@@ -1,17 +1,31 @@
-// I paired [by myself, with:] on this challenge.
+// I paired by myself on this challenge.
 
 
 
 
 // Pseudocode
-// 
-// 
-// 
-// 
+// For 1, declare secretNumber as a number
+// For 2, declare secretNumber is 7
+// For 3, declare password as a string
+// For 4, declare password as 'just open the door'
+// For 5, declare allowedIn as a boolean
+// For 6, declare allowedIn as a boolean  false
+// For 7, add array items to members array
+// For 8, declare 'John' as the first element in members array
+// For 9, declare 'Mary' as the fourth element in members array
 
 
 // __________________________________________
 // Write your code below.
+var secretNumber = 3
+var secretNumber = 7
+var password = 'Farheen'
+var password = 'just open the door'
+var allowedIn = true
+var allowedIn = false
+var members = ['Farheen', 'Faizah', 'Farnaz']
+var members = ['John', 'Farheen', 'Faizah', 'Farnaz']
+var members = ['John', 'Farheen', 'Faizah', 'Mary', 'Farnaz']
 
 
 
