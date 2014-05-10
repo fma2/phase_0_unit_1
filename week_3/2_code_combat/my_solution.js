@@ -211,12 +211,32 @@ this.attackXY(46, 56);
 this.attackXY(69, 58);
 this.attackXY(58, 47);
  
+/* 
+What is [this] referring to? Think programming-wise rather than in the terms of the game.
+
+[this] seems to be short-hand and refers to an already defined variable.  In this case, its referring to Tharin.
+
+
+What does the () do in JavaScript?
+
+The () sets parameters to pass through the function.
+
+
+What is the point of the semicolons?
  
-// What is [this] referring to? Think programming-wise rather than in the terms of the game.
-// What does the () do in JavaScript?
-// What is the point of the semicolons?
- 
- 
+The semi-colon separates statements, which are pieces of code that tell the computer to do something.
+They are not necessary if statements are on different lines, but they are necessary when statements are on the same line.
+
+
+*/ 
  
 // Reflection:
 // Write your reflection here.
+/*
+I found Code Combat’s missions to be  simple yet useful as an early challenge in this week’s work and for the beginner stage  in which I find myself with web programming.  I have been exposed to Python and Ruby but not JavaScript.  Using Code Combat was my first look at  JavaScript, and I liked that it allowed me to get my feet wet.   I was able to begin to draw comparisons between what I know about Python and Ruby with the repeated code I was seeing in JavaScript.  
+
+It was challenging to maintain a pseudocode-then-code routine, because of  the website’s lag and  the constant switching, copying, and pasting between browser and Sublime.  On multiple occasions, I wanted to write the code and test it on Code Combat and then write pseudocode on Sublime after finding code that worked.  I know the pseudocode-then-code routine is beneficial; I will need to continue to practice this process, to ensure its more natural for me.
+
+Understanding the meaning of “this” was not immediate.  I could see that it was referring to Tharin, but I did not initially understand how since Code Combat does not provide all of the code for what one is seeing.
+
+*/
