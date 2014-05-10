@@ -42,12 +42,11 @@ var members = ['John', 'Farheen', 'Faizah', 'Mary', 'Farnaz']
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
-// 
-// 
+/*
+Prior to starting this challenge, I went through the JavaScript Intro Lab.  Though I found it useful to compare Ruby and JavaScript through the Lab, I was not able to immediately apply the information to this challenge.   I had to first familiarize myself with the first error message in the terminal when I ran the driver test code.  To do so, I was fortunate to have software engineer friend nearby.  Once I was able to decipher the error message, I considered how variables work in JavaScript and was able to resolve the error message on the first try.  For error messages 2-4, I followed the same thought process as error message 1 and was happy to see I was successful.  For the boolean and array error messages, I was glad to have completed the Intro Lab, as it proved useful in writing code for error messages 5-9; I did not know how these looked for JavaScript prior.  
+
+Overall, though I was not able to apply information from the Intro Lab on first glance, I was able to complete the challenge successfully and with some understanding of test-driven development once I got into a rhythm of what was expected.  I feel confident with this challenge’s Learning Competencies; they match the steps I took to resolve the error messages.   To be able to handle complex test driven development with JavaScript in the future, I know I will need to gain a more solid understanding of what JavaScript is capable of and most, if not all, of its structural elements.
+*/
 
 
 // __________________________________________
