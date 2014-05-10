@@ -23,17 +23,16 @@ var terah = {
 // Assign value to name property, name:"Adam"
 
 3. Add a spouse property to terah and assign it the value of adam.
-// Declare var terah
-// Set var tera = {}
-// Add spouse property to var terah
-// Assign value to spouse property, spouse: adam
+// Declare terah.spouse
+// Set terah.spouse equal to adam
 
 4. Change the value of the terah weight property to 125.
-// Add weight property to var terah
-// Add value of weight property as 125
+// Declare terah.weight
+// Set terah.weight equal to 125
 
 5. Remove the eyeColor property from terah.
-// Do not include eyeColor property in var terah
+// Declare terah.weight
+// Set terah.weight equal to undefined
 
 6. Add a spouse property to adam and assign it the value of terah.
 // Add spouse property to var adam
@@ -41,18 +40,30 @@ var terah = {
 
 7. Add a children property to terah and and use object literal notation to assign 
    this variable the value of a JavaScript Object object with no properties
+// Declare terah.children
+// Set terah.children = {}
 
 8. Add a carson property to the value of the terah children property and assign it 
   the value of an object with the property name with a value of "Carson".
+// For terah.children, add carson property
+// Add name property to carson
+// Assign value to name property, name: "Carson"
 
 9. Add a carter property to the value of the terah children property and assign it 
    the value of an object with the property name with a value of "Carter".
+// For terah.children, add carter property
+// For carter property, add name property
+// Assign value to name property, name: "Carter"
+
 
 10. Add a colton property to the value of the terah children property and assign it 
     the value of an object with the property name with a value of "Colton".
+// For terah.children, add colton property
+// For colton property, add name property
+// Assign value to name property, name: "Colton"
 
 11. Add a children property to adam and assign it the value of terah children.
-
+// Declare adam.children as equal to terah.children
 
 */
 
