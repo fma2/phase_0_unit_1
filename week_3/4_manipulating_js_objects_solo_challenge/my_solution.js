@@ -97,7 +97,11 @@ adam.children = terah.children
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
+// Because the format of the javascript file in this challenge was similar to the one in Challenge 3, I was able to quickly get working on the error messages.  Unfortunately, this also made me less conscientious about writing satisfactory pseudocode.  
+
+// Though I began with pseudocode, I found myself wanting to just test code and write pseudocode after getting the code working.  I understand the value of pseudocode and would like to follow the pseudocode-to-code process better; had I written clearer pseudocode when declaring the names of the children, I would have not had to test and re-test.  To improve my pseudocode-ing, I believe I should begin to: (1) consider systems which make the pseudocode to code process feel less inconvenient  in terms of switching between computer applications (sublime to terminal, etc.), and (2) research examples of well-written pseudocode so I am more confident in my syntax.
+
+// I appreciated that this challenge was similar to Challenge 3, as it allowed me to practice and build on recently acquired knowledge.   The differences between the challenges are apparent in their learning competencies.  This challenge added manipulation of object literals.  I am still working on fully understanding “object literal” as a larger concept and this challenge made the concept a bit more tangible.  
 // 
 // 
 // 
