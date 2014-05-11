@@ -36,7 +36,18 @@ var members = ['John', 'Farheen', 'Faizah', 'Mary', 'Farnaz']
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
 
+var secretNumber = 3
+secretNumber = 7
 
+var password = 'Farheen'
+password = 'just open the door'
+
+var allowedIn = true
+allowedIn = false
+
+var members = ['Farheen', 'Faizah', 'Farnaz']
+members[0] = 'John'
+members[3] = 'Mary'
 
 
 
