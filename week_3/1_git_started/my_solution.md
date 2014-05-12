@@ -3,43 +3,43 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+Adds a change in the directory you are in to the staging area
 
 #### branch
-<!-- Your defnition here -->
+Allows you to create an isolated working environment for a single repo (a branch)
 
 #### checkout
-<!-- Your defnition here -->
+Lets you look at repo that you are not currently in
 
 #### clone
-<!-- Your defnition here -->
+Allows you to copy a git repo so you can add to it
 
 #### commit
-<!-- Your defnition here -->
+Records a snapshot of the staging area
 
 #### fetch
-<!-- Your defnition here -->
+Download new branches and and data from a remote repo
 
 #### log
-<!-- Your defnition here -->
+Shows the commit history of a branch
 
 #### merge
-<!-- Your defnition here -->
+Merges a branch into the current one
 
 #### pull
-<!-- Your defnition here -->
+Fetches from a remote repo and merges into the current branch
 
 #### push
-<!-- Your defnition here -->
+Pushes the new branch and data to a remote repo
 
 #### reset
-<!-- Your defnition here -->
+Undos changes and commits
 
 #### rm
-<!-- Your defnition here -->
+Removes files from a staging area
 
 #### status
-
+View the status of your files in the working directory or staging area
 
 ## Release 4: Git Workflow
 
@@ -48,3 +48,5 @@ Define the following commands and describe how they work/what they do.
 - Commit locally
 
 ## Release 5: Reflection
+
+This was a challenge on which I admittedly did not spend much time.  A few weeks ago, I researched git commands when I had trouble pulling from DBC’s repo.  For this challenge, I read/watched a few of  the resources provided which confirmed some of my past learnings but also taught me new commands.  Notably, I did try out git commands in the terminal for this challenge but am finding that I am more likely to use the GitHub application for commit and sync commands (it’s so easy, especially when time is limited!).  I should begin to utilize the terminal for these commands, as I’m concerned  I will forget the git commands I learned in past weeks and through the resources provided.  
