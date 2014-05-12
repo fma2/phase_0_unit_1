@@ -98,8 +98,18 @@ console.log(' facts: ' + result.factThree);
 
 
 // Reflection
-// 
-// 
+// // 
+// // This challenge took me quite a bit of time to complete.  I began with considering a mission which involved JavaScript code that utilized what I had learned but also challenged me to learn something new; this was a surprisingly challenging balance.  I searched the web for ideas and lost myself for at least an hour.  Ultimately, I decided upon a practical mission--an online tool that allows me, as an educator, to collect quick feedback from students on their understanding of a lesson.  
+
+// Unlike challenge 4, I committed to writing the full pseudocode for the mission before writing any code.  Unfortunately, when writing and testing the code, I found errors and changed the pseudocode after getting working code.  Notably, the errors were related to some incompatibilities: (1) based on samples I had found online, I had written prompt commands for script embedded in HTML, run on a browser; (2) I discovered node  runs prompt commands written in a specific way.
+
+// To this end, I rewrote my initial code a few times to accommodate where it would work (whether through a browser or with node).  After much time, I settled on the code found in this file; I ran it through a browser--specifically, the console tab in DevTools and it worked as I had hoped.  
+
+// When it came to refactoring, I decided that I had made my initial code as simple as I could and  that I should try writing the prompt command according to node, in order to understand any differences.  I found a great resource after which to model this code: https://github.com/flatiron/prompt.  
+
+// Overall, I think I met this challenge’s learning competencies but should have managed my time more effectively.  It’s interesting that, with only basic understanding of JavaScript, I was already able to see its possibilities and struggled with coming up with a mission appropriate for my present skill-level--I wanted to make what I know is possible with JavaScript but I have not learned how to code yet.  
+
+// As an aside, I would like to find a tutorial on node and its various commands.
 // 
 // 
 // 
