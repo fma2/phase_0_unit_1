@@ -63,3 +63,9 @@ show()
 
 
 //  Your Reflection:
+
+// I did not have a pair for this GPS; I instead completed the steps on my own, explicating what I was doing aloud so the DBC Guide was able to hear. 
+
+//  This week’s GPS aligned well with the challenges.  I felt successful going into it, as it was done at the conclusion of the week after I had completed most of the challenges.  This meant I was comfortable with declaring and manipulating variables in JavaScript, at the very least.  This basic knowledge was applied to the steps in the GPS with the DBC Guide’s helpful prompts.  As I explained my process, he would occasionally provide input in the form of a question--the questions were framed in a way that connected my basic knowledge to what the step in the challenge asked.  Overall, it made me look forward to Phase 1 when I am able to engage in similar processes in person.  
+
+// I was able to successfully use functions through this challenge.  And, now that I have seen objects in different forms through all of this week’s challenges, I need to revisit “object literals” as a concept.    
