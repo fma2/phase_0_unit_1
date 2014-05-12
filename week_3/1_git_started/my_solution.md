@@ -44,8 +44,26 @@ View the status of your files in the working directory or staging area
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+
+git remote add origin *.git
+git push origin master
+
 - Fetch changes
+
+git remote -v
+git remote add upstream https://*.git
+origin https://*.git
+git fetch upstream
+git branch -va
+git checkout master
+git merge upstream/master
+git commit -m "Fetched changes"
+
 - Commit locally
+
+git add [file name]
+git status -s
+git commit -m "My changes"
 
 ## Release 5: Reflection
 
